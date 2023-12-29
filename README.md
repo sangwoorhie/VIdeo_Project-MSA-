@@ -1,9 +1,5 @@
 # NestJS Microservice Project
 
-## Github
-
-- https://github.com/fresh502/fastcampus-nestjs-microservice
-
 ## 프로젝트 아키텍쳐
 
 - 모놀리식 => 마이크로서비스 전환
