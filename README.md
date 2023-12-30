@@ -1,4 +1,6 @@
-# Microservice Architecture Project
+## Video Project - Microservice Architecture ver
+
+<p align="center"><img src="https://github.com/fresh502/nestjs/assets/131964697/b7a0dcca-ed6f-4a8a-a0f2-f90021862240"></p>
 
 ## 프로젝트 아키텍쳐
 <p align="center"><img src="https://github.com/sangwoorhie/BackEnd/assets/131964697/3f254d31-7b69-46e0-aebf-15357ca518e2"></p>
